@@ -1,0 +1,30 @@
+# Build outputs
+build/
+dist/
+bin/
+obj/
+out/
+*.exe
+*.apk
+*.aab
+
+# Gradle / Android
+.gradle/
+local.properties
+*.iml
+.idea/
+
+# Node
+node_modules/
+npm-debug.log*
+
+# Tooling / OS
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Keystores / secrets
+*.jks
+*.keystore
+.env
+.env.*
